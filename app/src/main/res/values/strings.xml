@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Car Wash Service</string>
+    <string name="choose_your_service">Choose Your Service</string>
+    <string name="full_service_wash">Full Service Wash</string>
+    <string name="triple_polish">Triple Polish</string>
+    <string name="under_body_wash">Under Body Wash</string>
+    <string name="confirm">Confirm</string>
+    <string name="wheel_rim_cleaning"><![CDATA[Wheel & Rim Cleaning]]></string>
+    <string name="reserve_date">Reserve Date</string>
+    <string name="reserve_time">Reserve Time</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="date">date</string>
+    <string name="time">time</string>
+</resources>
